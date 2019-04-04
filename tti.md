@@ -54,6 +54,13 @@ Hozzunk létre három változót 0 kezdőértékkel, ezek fogják tárolni az ad
 
 A változókat a **Variables**-nél, a 0 értéket a **Math**-nál találjuk. A változókat nevezzük el a mintának megfelelően.
 
+A számolás gombnyomásra lesz végrehajtva, tehát a **szamol** gomb **click** eseményénél kell megadni minden további utasítást.
+
+A számolás algoritmusa:
+
+-a súly értékét a megfelelő TextBox-ból beolvassuk a **suly** változóba
+-a magasság értékét a megfelelő TextBox-ból beolvassuk a **magassag** változóba, és 100-al elosztjuk, mert a képlet m-el és nem cm-el számol.
+
 
 
 
