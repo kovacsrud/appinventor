@@ -59,7 +59,10 @@ A számolás gombnyomásra lesz végrehajtva, tehát a **szamol** gomb **click**
 A számolás algoritmusa:
 
 -a súly értékét a megfelelő TextBox-ból beolvassuk a **suly** változóba
--a magasság értékét a megfelelő TextBox-ból beolvassuk a **magassag** változóba, és 100-al elosztjuk, mert a képlet m-el és nem cm-el számol.
+-a magasság értékét a megfelelő TextBox-ból beolvassuk a **magassag** változóba, és 100-al elosztjuk, mert a képlet m-el és nem cm-el számol
+-kiszámítjuk a testtömeg indexet a megadott adatok alapján
+-megjelenítjük az eredményt
+
 
 
 
