@@ -70,6 +70,8 @@ A számolás algoritmusa:
 Már csak a szöveges minősítés megadása van hátra. Ehhez egyszerű IF utasításokat használunk. 
 **HA** feltétel **AKKOR** megfelelő érték kiírása.
 
+### A kódblokk az IF utasításokkal
 
+![tti2](kesz_szamolas.JPG)
 
 
