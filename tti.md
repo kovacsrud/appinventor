@@ -4,10 +4,13 @@ Első lépésként be kell jelentkezni az Appinventor felületére, majd **Proje
 ![ujprojekt](newproj.JPG)
 
 ## Új képernyő (screen) hozzáadása
-Azt szeretnénk, hogy az app egy kezdő képernyővel induljon, amiről gombnyomásra lehet továbbmenni a számításhoz.
+Azt szeretnénk, hogy az app egy kezdő képernyővel induljon, amiről gombnyomásra lehet továbbmenni a számításhoz. 
+Az **Add Screen**-re kattintva adunk a projekthez új screent. Adjuk neki valami nevet, pl **tti_szamitas** 
 
 ![ns](newscreen.JPG)
-![screenek](screenek.jpg)
+![screenek](screenek.JPG)
+
+
 
 
 
