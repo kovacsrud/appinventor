@@ -63,7 +63,9 @@ A számolás algoritmusa:
 -kiszámítjuk a testtömeg indexet a megadott adatok alapján
 -megjelenítjük az eredményt
 
+### A kódblokk így néz ki:
 
+![tti1](tti_szamitas.JPG)
 
 
 
