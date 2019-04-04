@@ -6,8 +6,8 @@ Első lépésként be kell jelentkezni az Appinventor felületére, majd **Proje
 ## Új képernyő (screen) hozzáadása
 Azt szeretnénk, hogy az app egy kezdő képernyővel induljon, amiről gombnyomásra lehet továbbmenni a számításhoz.
 
-!(newscreen.JPG)
-!(screenek.jpg)
+![ns](newscreen.JPG)
+![screenek](screenek.jpg)
 
 
 
