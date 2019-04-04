@@ -10,6 +10,14 @@ Az **Add Screen**-re kattintva adunk a projekthez új screent. Adjuk neki valami
 ![ns](newscreen.JPG)
 ![screenek](screenek.JPG)
 
+A kezdő screen-en alakítsuk ki a következő felületet:
+
+![felulet](felulet2.JPG)
+
+Ehhez a **Layout**-ok közül válasszuk a **VerticalArrangement**-et, húzzuk a **Screen1**-re
+
+A **Screen1**-en az **alignHorizontal** értékét állítsuk **Center**-re
+
 
 
 
