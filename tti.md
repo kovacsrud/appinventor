@@ -28,6 +28,7 @@ Válasszuk ki a **tovabb** nevű gombunkat. A **Click** eseményt kell megadnunk
 
 ## Az eredmény:
 ![screen1 kód](screen1_kod.JPG)
+
 Ezzel az első képernyő kész.
 
 Dolgozzuk ki a számítást végző programrész képernyőjét is.
@@ -35,7 +36,9 @@ Dolgozzuk ki a számítást végző programrész képernyőjét is.
 A **tti_szamitas** nevű screen vízszintes igazítását állítsuk be **Center**-re.
 
 A **Layout**-ok közül válasszuk a **TableArrangement**-et, húzzuk a screen-re. Álljon 2 oszlopból és két sorból.
-A bal oldali cellákba kerüljön 2 **Label**, a jobb oldalra pedig 2 **TextBox**
+A bal oldali cellákba kerüljön 2 **Label**, a jobb oldalra pedig 2 **TextBox**. Adjunk neveket a **TextBox**-oknak. 
+
+A **TableArrangement** alá tegyünk e gombot, a gomb alá pedig két üres **Label**-t. Ezeken a címkéken jelenik majd meg a TTI értéke, valamint a szöveges tájékoztatás (kövér, sovány stb.)
 
 
 
