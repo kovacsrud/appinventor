@@ -40,6 +40,11 @@ A bal oldali cellákba kerüljön 2 **Label**, a jobb oldalra pedig 2 **TextBox*
 
 A **TableArrangement** alá tegyünk e gombot, a gomb alá pedig két üres **Label**-t. Ezeken a címkéken jelenik majd meg a TTI értéke, valamint a szöveges tájékoztatás (kövér, sovány stb.)
 
+Ha kész, akkor ezt látjuk majd:
+
+![kesz](kesz_felulet.JPG)
+
+
 
 
 
