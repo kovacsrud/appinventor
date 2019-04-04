@@ -67,6 +67,9 @@ A számolás algoritmusa:
 
 ![tti1](tti_szamitas.JPG)
 
+Már csak a szöveges minősítés megadása van hátra. Ehhez egyszerű IF utasításokat használunk. 
+**HA** feltétel **AKKOR** megfelelő érték kiírása.
+
 
 
 
