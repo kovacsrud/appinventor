@@ -75,3 +75,4 @@ Már csak a szöveges minősítés megadása van hátra. Ehhez egyszerű IF utas
 ![tti2](kesz_szamolas.JPG)
 
 
+Mehet a tesztelés! :)
