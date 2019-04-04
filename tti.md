@@ -26,6 +26,8 @@ A **Screen1**-nél váltsunk át **Blocks** nézetre (jobb felső sarok).
 
 Válasszuk ki a **tovabb** nevű gombunkat. A **Click** eseményt kell megadnunk, ezt húzzuk át jobbra. A parancs amit az esemény bekövetkeztekor végre kell majd hajtania a progranak a **Control** alatt található **Open another screen...** lesz. Ezt húzzuk bele a kódblokkba. Ezt követően a **Text** elemek közül a legfelső kell, amelyben meg kell adni a megnyitni kívánt screen nevét. Ez most a **tti_szamitas** lesz.
 
+## Az eredmény:
+![screen1 kód](screen1_kod.JPG)
 
 
 
