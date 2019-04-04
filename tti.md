@@ -45,6 +45,15 @@ Ha kész, akkor ezt látjuk majd:
 ![kesz](kesz_felulet.JPG)
 
 
+## A programkód összerakása
+
+Váltsunk a **Blocks** gomb lenyomásával a kód szerkesztő módba.
+Hozzunk létre három változót 0 kezdőértékkel, ezek fogják tárolni az adatokat.
+
+![valtozok](valtozok.JPG)
+
+A változókat a **Variables**-nél, a 0 értéket a **Math**-nál találjuk. A változókat nevezzük el a mintának megfelelően.
+
 
 
 
